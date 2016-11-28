@@ -1,5 +1,5 @@
 # KMime
-Mime detection using kotlin
+Mime detection using kotlin (uses `magic` file from `shared-mime-info v1.5`)
 
 ## Usage:
 1. Import jar
@@ -36,6 +36,3 @@ public class Main {
 image/png
 image/png
 ```
-
-##### Magic:
-Taken from shared-mime-info 1.5
