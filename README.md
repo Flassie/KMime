@@ -31,7 +31,8 @@ public class Main {
     }
 }
 ```
-#### Output:
+#### Output (if E:/123.png and E:/123.mp3 exist):
 ```
+image/png
 image/png
 ```
