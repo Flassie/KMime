@@ -16,3 +16,7 @@ object Main {
     }
 }
 ```
+Will show:
+```
+image/png
+```
