@@ -1,4 +1,4 @@
-package com.flassie.Mime
+package com.flassie.KMime
 
 import java.io.*
 import java.util.*

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KMime.iml" filepath="$PROJECT_DIR$/.idea/modules/KMime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KMime_main.iml" filepath="$PROJECT_DIR$/.idea/modules/KMime_main.iml" group="KMime" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KMime_test.iml" filepath="$PROJECT_DIR$/.idea/modules/KMime_test.iml" group="KMime" />
+    </modules>
+  </component>
+</project>

@@ -1,7 +1,10 @@
-package com.flassie.Mime
+package com.flassie.KMime
+
+import com.flassie.KMime.MimeParser
+import com.flassie.KMime.Section
 
 object Mime {
-    @JvmStatic var mimes: List<Section> = MimeParser.parseMimes(javaClass.getResourceAsStream("magic"))
+    @JvmStatic var mimes: List<Section> = MimeParser.parseMimes(javaClass.getResourceAsStream("/magic"))
         private set
 
     @JvmStatic fun match(filename: String): String? {
