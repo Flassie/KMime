@@ -36,3 +36,6 @@ public class Main {
 image/png
 image/png
 ```
+
+##### Magic:
+Taken from shared-mime-info 1.5
